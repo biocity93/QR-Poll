@@ -8,7 +8,7 @@ const main = async () => {
         
     }
     )
-    
+    prisma.$connect.bind
     
 }
 
